@@ -1,0 +1,1 @@
+http://www.cnblogs.com/Cherry-B/p/4583505.html?utm_source=tuicool&utm_medium=referral  全局添加gitignore
